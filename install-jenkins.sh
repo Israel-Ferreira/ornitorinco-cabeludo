@@ -3,7 +3,7 @@
 sh docker.sh
 
 sudo apt-get update
-sudo apt-get install openjdk-11-jdk 
+sudo apt-get install openjdk-17-jdk 
 
 
 curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo tee \
